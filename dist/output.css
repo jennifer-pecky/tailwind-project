@@ -526,6 +526,10 @@ video {
   display: flex;
 }
 
+.h-16 {
+  height: 4rem;
+}
+
 .w-\[1\.9\%\] {
   width: 1.9%;
 }
